@@ -1,6 +1,6 @@
 # BASIC SHELL TCP SERVER ON PORT 33
 # CODED BY IOSMEN (C) 2025
-# https://github.com/iosmenq/telnetshell?telnetshell=source_code
+# https://github.com/iosmenq/TelnetShell?TelnetShell=source_code
 import socket
 import sys
 import os
@@ -49,5 +49,6 @@ while True:
     except KeyboardInterrupt:
         print("\n[INFO] Server stopped.")
         break
+
 
 s.close()
