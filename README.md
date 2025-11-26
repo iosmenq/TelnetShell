@@ -1,0 +1,2 @@
+# TelnetShell
+TCP SERVER ON PORT 33 FOR SHELL
