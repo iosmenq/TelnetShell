@@ -6,7 +6,7 @@ import sys
 import os
 import subprocess
 
-HOST = '192.168.1.107'
+HOST = 'YOUR_IP'
 PORT = 33
 
 try:
@@ -52,3 +52,4 @@ while True:
 
 
 s.close()
+
